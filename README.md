@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="Language"/>
-  <img src="https://img.shields.io/badge/Grade-125%2F100-brightgreen.svg" alt="Grade"/>
+  <img src="https://img.shields.io/badge/Grade-100%2F100-brightgreen.svg" alt="Grade"/>
   <img src="https://img.shields.io/badge/42-Heilbronn-orange.svg" alt="School"/>
 </p>
 
